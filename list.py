@@ -21,3 +21,10 @@ print("list + list1 :",list1 + list2)
 #ressining element
 list1[1] = "watermelon"
 print("after ressinging :",list1)
+
+# #sum of numbers in an list
+# marks=[30,20,40,28,]
+# total_mark=0
+# for mark in marks:
+#     total_mark += mark
+# print(f"total mark={total_mark}")
